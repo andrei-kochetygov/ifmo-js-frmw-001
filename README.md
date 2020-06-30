@@ -1,3 +1,7 @@
+# Задание FRWM-001
+## Связывание данных на React
+Итоговое приложение развернуто на [GitHub Pages](https://flatdragon.github.io/ifmo-js-frmw-001/).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
